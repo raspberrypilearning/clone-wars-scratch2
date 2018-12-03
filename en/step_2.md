@@ -6,7 +6,7 @@ First make a spaceship that can defend the Earth!
 
 Open the 'Clone wars' Scratch starter project.
 
-Download the starter project from [rpf.io/clone-wars-off](http://rpf.io/p/en/clone-wars-scratch2-go), and then open it using the offline editor.
+Download the starter project from [rpf.io/p/en/clone-wars-scratch2-go](http://rpf.io/p/en/clone-wars-scratch2-go), and then open it using the offline editor.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
