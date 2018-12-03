@@ -22,7 +22,7 @@ Draw a new sprite called `Game Over` using the **text** tool.
 
 On the Stage, broadcast a `game over`{:class="blockevents"} message just before the game ends.
 
-![gameover sprite](images/gameover-sprite.png)
+![gameover sprite](images/stage-sprite.png)
 
 ```blocks
 broadcast [game over v] and wait
