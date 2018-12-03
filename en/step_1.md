@@ -41,11 +41,11 @@ title: What you will need
 
 ### Software
 
-+ Scratch 2.0 (either [online](https://rpf.io/scratchon) or [offline](https://rpf.io/scratchoff))
++ Scratch 2.0 [offline](https://rpf.io/scratchoff)
 
 ### Downloads
 
-[Find the downloads here](http://rpf.io/p/en/clonewars-go).
+[Find the downloads here](http://rpf.io/p/en/clone-wars-scratch2-go).
 
 --- /collapse ---
 
