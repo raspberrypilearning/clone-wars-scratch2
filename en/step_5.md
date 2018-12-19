@@ -45,8 +45,6 @@ Here are the blocks you need:
 
 ![blocks_1545216460_4093165](images/blocks_1545216460_4093165.png)
 
-![Clone hippo hint](images/clone-hippo-hint.png)
-
 --- /hint ---
 
 --- hint ---
