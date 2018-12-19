@@ -26,12 +26,7 @@ Add some code to your `Spaceship` sprite so that it displays the 'normal' costum
 
 ![rocket sprite](images/rocket-sprite.png)
 
-```blocks
-when flag clicked
-switch costume to [normal v]
-wait until <touching [Hippo1 v]>?
-switch costume to [hit v]
-```
+![blocks_1545216464_8465707](images/blocks_1545216464_8465707.png)
 
 --- /task ---
 

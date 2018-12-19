@@ -20,20 +20,11 @@ Add this code to the spaceship sprite to make the spaceship move left if the <kb
 
 ![rocket sprite](images/rocket-sprite.png)
 
-```blocks
-	when flag clicked
-	forever
-		if <key [left arrow v] pressed?> then
-			change x by (-4)
-		end
-	end
-```
+![blocks_1545216449_203918](images/blocks_1545216449_203918.png)
 
 The x-axis goes from the left side of the Stage to the right side. This means that the spaceship moves to the left when you subtract from the value of the spaceship sprite's `x` position. So this code block is the part that makes your spaceship move left:
 
-```blocks
-change x by (-4)
-```
+![blocks_1545216450_3267193](images/blocks_1545216450_3267193.png)
 
 --- /task ---
 
@@ -53,9 +44,7 @@ Subtracting `4` from the spaceship's `x` position made it move left, so how coul
 
 You need the same code block, but with a different number:
 
-```blocks
-change x by ( )
-```
+![blocks_1545216451_3971887](images/blocks_1545216451_3971887.png)
 
 --- /hint ---
 
@@ -65,11 +54,7 @@ Here is the code you need to add below the other code inside the `forever`{:clas
 
 ![rocket sprite](images/rocket-sprite.png)
 
-```blocks
-if <key [right arrow v] pressed?> then
-	change x by (4)
-end
-```
+![blocks_1545216452_5536005](images/blocks_1545216452_5536005.png)
 --- /hint ---
 
 --- /hints ---

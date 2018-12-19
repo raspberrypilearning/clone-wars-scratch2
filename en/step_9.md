@@ -18,13 +18,7 @@ Make the `Bat` sprite `move`{:class="blockmotion"} from left to right at the top
 
 ![bat sprite](images/bat-sprite.png)
 
-```blocks
-when flag clicked
-forever
-    move (10) steps
-    if on edge, bounce
-end
-```
+![blocks_1545216469_2012026](images/blocks_1545216469_2012026.png)
 
 Remember to test your code.
 
@@ -50,25 +44,13 @@ After the bat has moved, it should show the `next costume`{:class="blocklooks"} 
 
 You need to add these blocks to you code:
 
-```blocks
-wait (0.3) secs
-
-next costume
-```
+![blocks_1545216470_3288476](images/blocks_1545216470_3288476.png)
 --- /hint ---
 
 --- hint ---
 You code should look like this:
 
-```blocks
-when flag clicked
-forever
-    move (10) steps
-    if on edge, bounce
-    next costume
-    wait (0.3) secs
-end
-```
+![blocks_1545216471_3940055](images/blocks_1545216471_3940055.png)
 --- /hint ---
 
 --- /hints ---
@@ -91,13 +73,7 @@ Add code to your bat so that `when the flag is clicked`{:class="blockevents"}, t
 
 ![bat sprite](images/bat-sprite.png)
 
-```blocks
-when flag clicked
-forever
-	wait (pick random (5) to (10)) secs
-	create clone of [Orange v]
-end
-```
+![blocks_1545216472_4790988](images/blocks_1545216472_4790988.png)
 
 --- /task ---
 
@@ -107,18 +83,7 @@ Add code to the `Orange` to make each of its clone drop, starting from the `Bat`
 
 ![orange sprite](images/orange-sprite.png)
 
-```blocks
-	when flag clicked
-	hide
-
-	when I start as a clone
-	go to [Bat1 v]
-	show
-	repeat until <touching [edge v]?
-		change y by (-4)
-	end
-	delete this clone
-```
+![blocks_1545216473_55223](images/blocks_1545216473_55223.png)
 
 --- /task ---
 
@@ -128,10 +93,7 @@ Add some more code to the `Orange` sprite so that when an `Orange` clone hits th
 
 ![orange sprite](images/orange-sprite.png)
 
-```blocks
-	when I receive [hit v]
-	delete this clone
-```
+![blocks_1545216474_6433125](images/blocks_1545216474_6433125.png)
 
 --- /task ---
 
@@ -141,9 +103,7 @@ Modify the code of your `Spaceship` sprite so that the sprite is "hit" when it t
 
 ![rocket sprite](images/rocket-sprite.png)
 
-```blocks
-	wait until < <touching [Hippo1 v]?> or <touching [Orange v]?>>
-```
+![blocks_1545216475_8181722](images/blocks_1545216475_8181722.png)
 
 --- /task ---
 

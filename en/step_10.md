@@ -24,9 +24,7 @@ On the Stage, broadcast a `game over`{:class="blockevents"} message just before 
 
 ![gameover sprite](images/stage-sprite.png)
 
-```blocks
-broadcast [game over v] and wait
-```
+![blocks_1545216445_101819](images/blocks_1545216445_101819.png)
 
 --- /task ---
 
@@ -36,13 +34,7 @@ Add this code to your `Game Over` sprite so that it shows at the end of the game
 
 ![gameover sprite](images/gameover-sprite.png)
 
-```blocks
-when flag clicked
-hide
-
-when I receive [game over v]
-show
-```
+![blocks_1545216446_9185789](images/blocks_1545216446_9185789.png)
 
 Because you've used a `broadcast [game over] and wait`{:class="blockevents"} block on your Stage, the Stage will wait for the `Game Over` sprite to be displayed before ending the game.
 
