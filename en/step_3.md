@@ -18,7 +18,7 @@ Add this code to the `Lightning` sprite:
 
 ![lightning sprite](images/lightning-sprite.png)
 
-![blocks_1545216453_7185507](images/blocks_1545216453_7185507.png)
+![blocks_1546523019_173628](images/blocks_1546523019_173628.png)
 
 --- /task ---
 
@@ -30,7 +30,7 @@ Below the code that the `Lightning` sprite already has, add some blocks to make 
 
 ![lightning sprite](images/lightning-sprite.png)
 
-![blocks_1545216454_8379393](images/blocks_1545216454_8379393.png)
+![blocks_1546523020_789337](images/blocks_1546523020_789337.png)
 
 Now it looks like it fires pointy end–first out of the spaceship.
 
@@ -52,7 +52,7 @@ Add some new code to the `Spaceship` sprite to create a new clone of the lightni
 
 Here are the blocks you need:
 
-![blocks_1545216455_9818132](images/blocks_1545216455_9818132.png)
+![blocks_1546523022_4331596](images/blocks_1546523022_4331596.png)
 
 --- /hint ---
 
@@ -62,7 +62,7 @@ Here is what your new code should look like:
 
 ![rocket sprite](images/rocket-sprite.png)
 
-![blocks_1545216457_112941](images/blocks_1545216457_112941.png)
+![blocks_1546523024_067531](images/blocks_1546523024_067531.png)
 
 --- /hint ---
 
@@ -78,7 +78,7 @@ Add this code to the `Lightning` sprite so that clones of it move upwards until 
 
 ![lightning sprite](images/lightning-sprite.png)
 
-![blocks_1545216458_2199702](images/blocks_1545216458_2199702.png)
+![blocks_1546523025_679803](images/blocks_1546523025_679803.png)
 
 --- /task ---
 
