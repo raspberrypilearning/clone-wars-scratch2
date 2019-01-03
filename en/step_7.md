@@ -8,7 +8,7 @@ Add code to the spaceship sprite to make it `broadcast`{:class="blockevents"} th
 
 ![rocket sprite](images/rocket-sprite.png)
 
-![blocks_1545216465_9502382](images/blocks_1545216465_9502382.png)
+![blocks_1546523037_0820568](images/blocks_1546523037_0820568.png)
 
 --- /task ---
 
@@ -18,7 +18,7 @@ All of the `Hippo` sprite clones will receive the "hit" message, and you can ins
 
 ![hippo sprite](images/hippo-sprite.png)
 
-![blocks_1545216467_0230205](images/blocks_1545216467_0230205.png)
+![blocks_1546523038_7288332](images/blocks_1546523038_7288332.png)
 
 --- /task ---
 
@@ -38,7 +38,7 @@ Add a `wait`{:class="blockcontrol"} block at the end of the `Spaceship` sprite's
 
 ![rocket sprite](images/rocket-sprite.png)
 
-![blocks_1545216468_0779724](images/blocks_1545216468_0779724.png)
+![blocks_1546523040_345169](images/blocks_1546523040_345169.png)
 
 --- /task ---
 

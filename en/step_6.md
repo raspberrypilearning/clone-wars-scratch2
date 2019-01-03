@@ -26,7 +26,7 @@ Add some code to your `Spaceship` sprite so that it displays the 'normal' costum
 
 ![rocket sprite](images/rocket-sprite.png)
 
-![blocks_1545216464_8465707](images/blocks_1545216464_8465707.png)
+![blocks_1546523035_386171](images/blocks_1546523035_386171.png)
 
 --- /task ---
 

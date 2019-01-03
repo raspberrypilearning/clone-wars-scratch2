@@ -18,7 +18,7 @@ Make the `Bat` sprite `move`{:class="blockmotion"} from left to right at the top
 
 ![bat sprite](images/bat-sprite.png)
 
-![blocks_1545216469_2012026](images/blocks_1545216469_2012026.png)
+![blocks_1546523041_97815](images/blocks_1546523041_97815.png)
 
 Remember to test your code.
 
@@ -44,13 +44,13 @@ After the bat has moved, it should show the `next costume`{:class="blocklooks"} 
 
 You need to add these blocks to you code:
 
-![blocks_1545216470_3288476](images/blocks_1545216470_3288476.png)
+![blocks_1546523043_5922892](images/blocks_1546523043_5922892.png)
 --- /hint ---
 
 --- hint ---
 You code should look like this:
 
-![blocks_1545216471_3940055](images/blocks_1545216471_3940055.png)
+![blocks_1546523045_1907203](images/blocks_1546523045_1907203.png)
 --- /hint ---
 
 --- /hints ---
@@ -73,7 +73,7 @@ Add code to your bat so that `when the flag is clicked`{:class="blockevents"}, t
 
 ![bat sprite](images/bat-sprite.png)
 
-![blocks_1545216472_4790988](images/blocks_1545216472_4790988.png)
+![blocks_1546523046_8543222](images/blocks_1546523046_8543222.png)
 
 --- /task ---
 
@@ -83,7 +83,7 @@ Add code to the `Orange` to make each of its clone drop, starting from the `Bat`
 
 ![orange sprite](images/orange-sprite.png)
 
-![blocks_1545216473_55223](images/blocks_1545216473_55223.png)
+![blocks_1546523048_4916952](images/blocks_1546523048_4916952.png)
 
 --- /task ---
 
@@ -93,7 +93,7 @@ Add some more code to the `Orange` sprite so that when an `Orange` clone hits th
 
 ![orange sprite](images/orange-sprite.png)
 
-![blocks_1545216474_6433125](images/blocks_1545216474_6433125.png)
+![blocks_1546523050_1140218](images/blocks_1546523050_1140218.png)
 
 --- /task ---
 
@@ -103,7 +103,7 @@ Modify the code of your `Spaceship` sprite so that the sprite is "hit" when it t
 
 ![rocket sprite](images/rocket-sprite.png)
 
-![blocks_1545216475_8181722](images/blocks_1545216475_8181722.png)
+![blocks_1546523051_75284](images/blocks_1546523051_75284.png)
 
 --- /task ---
 
