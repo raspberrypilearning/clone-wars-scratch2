@@ -13,4 +13,6 @@ Here are some ideas:
 
 + Make more enemies appear when your score gets to `100`.
 
-![blocks_1546523011_0117772](images/blocks_1546523011_0117772.png)
+```blocks
+	wait until <(score) = [100]>
+```
